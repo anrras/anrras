@@ -25,7 +25,7 @@ My name is Andrés Quintero. Colombian.
 ### Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![SVN](https://img.shields.io/badge/svn-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/svn-%35495E.svg?style=for-the-badge&logo=svn&logoColor=white)
 
 
 ### GitHub Stats 🚀 
