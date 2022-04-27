@@ -5,10 +5,10 @@ My name is Andrés Quintero. Colombian.
 # Skills
 
 ![Angular](https://img.shields.io/badge/Angular-35495E?style=for-the-badge&logo=angular&logoColor=white&labelColor=c3002f)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=c3002f)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=c3002f)
-![JavaScript](https://img.shields.io/badge/Javascript-35495E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=efd81d)
-![Postgres](https://img.shields.io/badge/Postgres-35495E?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336790)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-35495E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 # Interested in learn a lot of 
 
