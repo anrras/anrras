@@ -2,15 +2,15 @@
 
 My name is Andrés Quintero. Colombian. 
 
-# Skills
+### Skills
 
-![Angular](https://img.shields.io/badge/Angular-35495E?style=for-the-badge&logo=angular&logoColor=white&labelColor=c3002f)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-35495E?style=for-the-badge&logo=angular&logoColor=white&labelColor=c3002f)
 
 
-# Interested in learn a lot of 
+### Interested in learn a lot of 
 
 ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailWindCSS](https://img.shields.io/badge/TailWindCSS-35495E?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
